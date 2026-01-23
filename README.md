@@ -1,1 +1,2 @@
 # gitRemote
+version 1
